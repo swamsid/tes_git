@@ -1,14 +1,7 @@
 hai
 
 user 1 change here :
-	- hai. iam add this one
-	- add second line
-	- i add there
-	- nope. you should this
-	- yyy
-	- nambah 1
-	- this
-	- apaa
+	- baru nih broo
 
 
 user 2 change here :
